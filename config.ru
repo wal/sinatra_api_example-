@@ -1,0 +1,1 @@
+require 'sinatra_api_example'
